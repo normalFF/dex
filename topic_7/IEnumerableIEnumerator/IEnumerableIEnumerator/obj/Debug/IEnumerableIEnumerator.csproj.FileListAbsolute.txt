@@ -1,0 +1,6 @@
+C:\Users\Max\source\DexJun1lvl\topic_7\IEnumerableIEnumerator\IEnumerableIEnumerator\bin\Debug\IEnumerableIEnumerator.exe.config
+C:\Users\Max\source\DexJun1lvl\topic_7\IEnumerableIEnumerator\IEnumerableIEnumerator\bin\Debug\IEnumerableIEnumerator.exe
+C:\Users\Max\source\DexJun1lvl\topic_7\IEnumerableIEnumerator\IEnumerableIEnumerator\bin\Debug\IEnumerableIEnumerator.pdb
+C:\Users\Max\source\DexJun1lvl\topic_7\IEnumerableIEnumerator\IEnumerableIEnumerator\obj\Debug\IEnumerableIEnumerator.csprojAssemblyReference.cache
+C:\Users\Max\source\DexJun1lvl\topic_7\IEnumerableIEnumerator\IEnumerableIEnumerator\obj\Debug\IEnumerableIEnumerator.exe
+C:\Users\Max\source\DexJun1lvl\topic_7\IEnumerableIEnumerator\IEnumerableIEnumerator\obj\Debug\IEnumerableIEnumerator.pdb
