@@ -2,9 +2,9 @@
 {
     public abstract class BaseTortoise
     {
-        protected string _name { get; set; }
-        protected string _body { get; set; }
-        protected string _shell { get; set; }
+        protected string _name { get; }
+        protected string _body { get; }
+        protected string _shell { get; }
 
         protected BaseTortoise(string _name, string _body, string _shell)
         {

@@ -4,8 +4,8 @@ namespace animals.TortoiseType
 {
     public class AdmiralTortoise : CommodoreTortoise
     {
-        protected string _rpg { get; set; }
-        protected string _teslaGun { get; set; }
+        protected string _rpg { get; }
+        protected string _teslaGun { get; }
 
         public AdmiralTortoise(string _name, string _body, string _shell, string _lazerGun, string _rpg, string _teslaGun) :
             base(_name, _body, _shell, _lazerGun)
