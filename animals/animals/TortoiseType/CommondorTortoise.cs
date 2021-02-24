@@ -4,7 +4,7 @@ namespace animals.TortoiseType
 {
     public class CommodoreTortoise : DefaultTortoise
     {
-        protected string _lazerGun { get; set; }
+        protected string _lazerGun { get;} //useless set
 
         public CommodoreTortoise(string _name, string _body, string _shell, string _lazerGun) :
             base(_name, _body, _shell)
