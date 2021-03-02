@@ -14,7 +14,7 @@ namespace topic_6
         {
             int n = 100000;
             int[] arr = new int[n];
-            long ellapledTicks;
+            long ellapledTicks;     // ellapledTicks где-то используется?
             int x = 123;
             double sum = 0;
             object[] o = new object[n];
